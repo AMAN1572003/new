@@ -1,0 +1,1 @@
+This model is trained on data of 1000 patients and predicts the chances of getting lung cancer under specified conditions. In this project Support Vector Classifier(linear) has been used and model has achieved 100% of accuracy.
